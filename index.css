@@ -1,0 +1,45 @@
+@font-face {
+    font-family: Comfortaa;
+    src: url(/fonts/Comfortaa-VariableFont_wght.ttf);
+}
+
+body {
+    background-color: rgb(27, 27, 27);
+}
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+    font-family: "Comfortaa", sans-serif;
+    font-weight: 800;
+    margin:auto;
+}
+#introdiv {
+    margin: 10px;
+    padding: 120px;
+    background-image: url(/images/aurora.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#introtext {
+
+    margin: 0 10%;
+    text-align: center;
+    color: white;
+    font-family: "Comfortaa", sans-serif;
+    font-weight: 500;
+    font-size: 4vw;
+}
+.frostedglass {
+    background-color: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(10px);
+    border: solid rgba(0, 0, 0, 0);
+    border-radius: 2vw;
+    padding: 1vw;
+}
+#gitlink {
+    font-family: "Comfortaa", sans-serif;
+    color:aqua;
+    background-position: center;
+}

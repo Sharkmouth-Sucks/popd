@@ -1,5 +1,3 @@
-# popd.site
-
 This is the WIP source code for popd.site
 
 The website itself isn't public but feel free to use any of the source code here.
