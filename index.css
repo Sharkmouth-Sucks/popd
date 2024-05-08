@@ -1,8 +1,3 @@
-@font-face {
-    font-family: Comfortaa;
-    src: url(fonts/Comfortaa-VariableFont_wght.ttf);
-}
-
 body {
     background-color: rgb(27, 27, 27);
 }
@@ -16,15 +11,13 @@ h1 {
 }
 #introdiv {
     margin: 10px;
-    padding: 120px;
+    padding: 100px 10%;
     background-image: url(images/aurora.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #introtext {
-
-    margin: 0 10%;
     text-align: center;
     color: white;
     font-family: "Comfortaa", sans-serif;
@@ -41,5 +34,9 @@ h1 {
 #gitlink {
     font-family: "Comfortaa", sans-serif;
     color:aqua;
-    background-position: center;
-}
+    text-align: center;
+    font-size: 2vw;
+    display: block;
+    margin: -3vw 30% 0;
+    padding:0.5vw
+} /* styling this made me actually want to end it
