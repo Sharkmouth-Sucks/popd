@@ -36,12 +36,13 @@ h1 {
 .linkbutton {
     font-family: "Comfortaa", sans-serif;
     color:aqua;
+    text-decoration: none;
     text-align: center;
     font-size: 2.5vw;
     margin: .4vw;
     padding:.78vw;
     display:block;
-    flex-grow: 1;
+    flex:1;
 } 
 .linkicon{
     vertical-align: middle;
@@ -50,7 +51,7 @@ h1 {
 }
 .flex{
     display:flex;
-    align-items: center;
+    align-items: stretch;
     justify-content: center;
 }
-/* styling this made me actually want to end it */
+/* styling this made me actually want to end it*/
