@@ -1,3 +1,8 @@
+This is the experimental branch for popd.site
+Many commits here are done for testing and won't actually work
+
+--Repo Desc--
+
 This is the WIP source code for popd.site
 
 The website itself isn't public but feel free to use any of the source code here.
