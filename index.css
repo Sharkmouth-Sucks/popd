@@ -10,14 +10,13 @@ h1 {
     font-weight: 800;
     margin:auto;
 }
-#introdiv {
-    background-image: url(images/aurora.jpg);
+.introdiv {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     margin: 0 -8px;
 }
-#introtext {
+.introtext {
     text-align: center;
     color: white;
     font-family: "Comfortaa", sans-serif;
@@ -32,13 +31,14 @@ h1 {
     border: solid rgba(0, 0, 0, 0);
     border-radius: 2vw;
     padding: 1vw;
+    
 }
 .linkbutton {
     font-family: "Comfortaa", sans-serif;
     color:aqua;
     text-decoration: none;
     text-align: center;
-    font-size: 2.5vw;
+    font-size: 3.5vw;
     margin: .4vw;
     padding:.78vw;
     display:block;
@@ -47,7 +47,7 @@ h1 {
 .linkicon{
     vertical-align: middle;
     padding-left: 1vw;
-    width: 3vw;
+    width: 4vw;
 }
 .flex{
     display:flex;
@@ -55,3 +55,6 @@ h1 {
     justify-content: center;
 }
 /* styling this made me actually want to end it*/
+.kms{
+    color: white;
+}
